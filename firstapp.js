@@ -1,3 +1,6 @@
+// Name: Nyle Maliwat
+// App name: query-demo
+// Description: basic express js app
 var express = require("Express");
 
 var app = express();
